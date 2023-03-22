@@ -1,0 +1,8 @@
+capmonster_python==2.2
+colorama==0.4.5
+httpx==0.23.0
+invisifox==0.0.5
+PyMailGw==0.0.1
+requests==2.28.1
+TwoCaptcha==0.0.1
+user_agent==0.1.10
